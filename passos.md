@@ -29,7 +29,6 @@ Isso pode ser feito de forma incremental ou em lotes, dependendo das necessidade
 Implemente um sistema de monitoramento para rastrear o desempenho do processo ETL, identificar problemas e registrar eventos importantes.
 
 9. Gerenciamento de Erros:
-
 Desenvolva um mecanismo para detectar e lidar com erros durante o processo ETL, incluindo a capacidade de reprocessar dados com problemas.
 
 10. Agendamento e Orquestração:
@@ -40,9 +39,9 @@ Documente todos os passos do processo ETL, incluindo as transformações aplicad
 
 12. Testes e Validação:
 Realize testes rigorosos para garantir que os dados carregados no sistema de destino atendam aos requisitos de negócios e estejam livres de erros.
-Treinamento e Suporte:
 
+13. Treinamento e Suporte:
 Treine a equipe que trabalhará com os dados no sistema de destino e forneça suporte contínuo para resolver problemas e ajustar o processo conforme necessário.
-Manutenção e Otimização:
 
+14. Manutenção e Otimização:
 Monitore continuamente o desempenho do processo ETL e faça otimizações à medida que novos requisitos surgirem ou conforme a escala dos dados aumentar.
